@@ -1,0 +1,12 @@
+c:\users\thegamer\documents\visual studio 2010\Projects\CacheSnort\CacheSnort\bin\Debug\CacheSnort.exe
+c:\users\thegamer\documents\visual studio 2010\Projects\CacheSnort\CacheSnort\bin\Debug\CacheSnort.pdb
+c:\users\thegamer\documents\visual studio 2010\Projects\CacheSnort\CacheSnort\bin\Debug\CacheSnort.xml
+c:\users\thegamer\documents\visual studio 2010\Projects\CacheSnort\CacheSnort\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\thegamer\documents\visual studio 2010\Projects\CacheSnort\CacheSnort\obj\x86\Debug\CacheSnort.Form1.resources
+c:\users\thegamer\documents\visual studio 2010\Projects\CacheSnort\CacheSnort\obj\x86\Debug\CacheSnort.Resources.resources
+c:\users\thegamer\documents\visual studio 2010\Projects\CacheSnort\CacheSnort\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\thegamer\documents\visual studio 2010\Projects\CacheSnort\CacheSnort\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\thegamer\documents\visual studio 2010\Projects\CacheSnort\CacheSnort\obj\x86\Debug\CacheSnort.exe
+c:\users\thegamer\documents\visual studio 2010\Projects\CacheSnort\CacheSnort\obj\x86\Debug\CacheSnort.xml
+c:\users\thegamer\documents\visual studio 2010\Projects\CacheSnort\CacheSnort\obj\x86\Debug\CacheSnort.pdb
+C:\Users\theGamer\Documents\Visual Studio 2010\Projects\CacheSnort\CacheSnort\bin\Debug\CacheSnort.exe.config

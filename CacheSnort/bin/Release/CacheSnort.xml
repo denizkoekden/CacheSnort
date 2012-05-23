@@ -1,0 +1,58 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CacheSnort
+</name>
+</assembly>
+<members>
+<member name="T:CacheSnort.FlashPlayer.FlashHost">
+	<summary>
+ Controller-Host für den FlashPlayer zur Darstellung
+ in einem UserControl.
+ </summary>
+</member><member name="M:CacheSnort.FlashPlayer.#ctor">
+	<summary>
+ Initialisiert das UserControl
+ </summary>
+</member><member name="P:CacheSnort.FlashPlayer.AutoPlay">
+	<summary>
+ Legt fest, ob das Video sofort abgespielt werden soll.
+ </summary>
+</member><member name="P:CacheSnort.FlashPlayer.ColorFrom">
+	<summary>
+ Legt die erste Verlaufsfarbe für Border und Navigator fest.
+ </summary>
+</member><member name="P:CacheSnort.FlashPlayer.ColorTo">
+	<summary>
+ Legt die zweite Verlaufsfarbe für Border und Navigator fest.
+ </summary>
+</member><member name="P:CacheSnort.FlashPlayer.IsPlayerInit">
+	<summary>
+ Zeigt an, ob ein FlashPlayer initialisiert werden konnte.
+ </summary>
+</member><member name="P:CacheSnort.FlashPlayer.ShowBorder">
+	<summary>
+ Legt fest, ob der Player einen Rahmen angezeigen soll.
+ </summary>
+</member><member name="M:CacheSnort.FlashPlayer.PlayMovie(System.String)">
+	<summary>
+ Spielt das angegebene Video ab.
+ </summary>
+	<param name="URL">Die URL des Videos.</param>
+</member><member name="P:CacheSnort.My.Resources.Resources.ResourceManager">
+	<summary>
+  Gibt die zwischengespeicherte ResourceManager-Instanz zurück, die von dieser Klasse verwendet wird.
+</summary>
+</member><member name="P:CacheSnort.My.Resources.Resources.Culture">
+	<summary>
+  Überschreibt die CurrentUICulture-Eigenschaft des aktuellen Threads für alle
+  Ressourcenzuordnungen, die diese stark typisierte Ressourcenklasse verwenden.
+</summary>
+</member><member name="T:CacheSnort.My.Resources.Resources">
+	<summary>
+  Eine stark typisierte Ressourcenklasse zum Suchen von lokalisierten Zeichenfolgen usw.
+</summary>
+</member>
+</members>
+</doc>
